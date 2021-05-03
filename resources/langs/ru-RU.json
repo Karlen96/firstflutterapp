@@ -1,0 +1,16 @@
+{
+    "hello":"Привет",
+    "title":"заголовок",
+    "cart":"Корзина",
+    "home_page":"домашная странтца",
+    "empty_input":"Пустая строка",
+    "favorits":"Предпочтения",
+    "email":"Электронная почта",
+    "password":"Пароль",
+    "password_reapet":"Повторный пароль",
+    "sign_up":"Регистрироватся",
+    "sign_in":"Войти",
+    "sign_out":"Выйти",
+    "notification":"Увидомления",
+    "please_login":"Please login or register to use these features"
+}

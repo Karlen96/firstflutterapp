@@ -1,0 +1,16 @@
+{
+    "hello":"hello",
+    "title":"title",
+    "cart":"cart",
+    "home_page":"home page",
+    "empty_input":"Empty input",
+    "favorits":"favorits",
+    "email":"email",
+    "password":"password",
+    "password_reapet":"password reapet",
+    "sign_up":"sign up",
+    "sign_in":"sign in",
+    "sign_out":"sign out",
+    "notification":"Notification",
+    "please_login":"Пожалуйста войдите или зарегистрируйтесь чтобы использовать эти функций"
+}
